@@ -1,1 +1,6 @@
-adasda
+title:命运2 DIM愿望单
+description:Bob自用
+//notes:快嘴
+dimwishlist:item=1419158093&perks=839105230,1092016998,243981275,365154968,1309453587
+
+
