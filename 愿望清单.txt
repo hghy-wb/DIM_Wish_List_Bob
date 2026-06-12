@@ -2,7 +2,7 @@ title:命运2 DIM愿望单
 description:Bob自用
 //notes:快嘴1
 dimwishlist:item=1419158093&perks=1332244541,1840239774,1359896290,1309453587
-//notes:快嘴1
+//notes:快嘴2
 dimwishlist:item=1419158093&perks=1092016998,1015611457
 
 //notes:完美逆行
